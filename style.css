@@ -1,0 +1,21 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.banner {
+  filter: brightness(40%);
+}
+.fa-facebook{
+    color: white;
+}
+.fa-twitter{
+    color: white;
+}
+.fa-linkedin{
+    color: white;
+}
+.fa-tiktok{
+    color: white;
+}
+footer{
+    background-color: #161616;
+}
